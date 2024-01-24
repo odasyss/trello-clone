@@ -1,6 +1,13 @@
 # Fullstack Trello Clone:
 Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL
- This was build from https://www.codewithantonio.com/projects/trello-clone, Use for practice of use of Next.js with Clerk,Stripe and Prisma with a server actions
+
+Running on Vercel: https://trello-clone-woad.vercel.app
+
+Dummy Account:
+USER: test
+Password: trello@test
+
+ This Project would not be updated as It was used for practice purposes. This was build from https://www.codewithantonio.com/projects/trello-clone, Use for practice of use of Next.js with Clerk,Stripe and Prisma with a server actions
 
 This is a Fullstack Trello Clone:
 Key Features:
